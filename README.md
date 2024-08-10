@@ -41,7 +41,7 @@ source venv/bin/activate
 
 
 
-### 4. Install Dependencies
+### 3. Install Dependencies
 
 Install the required dependencies for the project. This may involve using a package manager like **`pip`** for Python projects:
 
