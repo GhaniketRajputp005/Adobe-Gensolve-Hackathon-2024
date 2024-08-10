@@ -13,6 +13,7 @@ shape_names = ['circle', 'kite', 'parallelogram', 'rectangle', 'rhombus', 'squar
 label_encoder = LabelEncoder()
 label_encoder.classes_ = np.array(shape_names)
 
+
 # Function to preprocess images
 def preprocess_image(image_path, target_size=(128, 128)):
     image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)

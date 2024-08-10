@@ -12,6 +12,7 @@ def load_images_from_directory(directory):
     image_labels = []
     shape_names = ['circle', 'kite', 'parallelogram', 'rectangle', 'rhombus', 'square', 'trapezoid', 'triangle']
     
+    
     for shape_name in shape_names:
         shape_directory = os.path.join(directory, shape_name)
         for file_name in os.listdir(shape_directory):

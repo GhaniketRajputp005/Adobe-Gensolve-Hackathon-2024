@@ -6,6 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 # Load the model
 loaded_model = load_model('../CURVES_MODELS/curves_made_model.h5')
 
+
 # Load label encoder
 # Assuming you saved and reloaded the label encoder separately
 # If you didn’t save it, you need to recreate it with the same classes

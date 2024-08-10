@@ -7,6 +7,7 @@ from tensorflow.keras.utils import to_categorical
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
+
 # Function to load images from a directory
 def load_images_from_directory(directory_path):
     image_data = []

@@ -7,6 +7,7 @@ def create_shape_dataset(samples_per_shape=500, dataset_dir='../generated_datase
     shape_types = ['line', 'circle', 'ellipse', 'rectangle', 'rounded_rect', 'polygon', 'star']
     if not os.path.exists(dataset_dir):
         os.makedirs(dataset_dir)
+        
     
     for shape in shape_types:
         shape_folder = os.path.join(dataset_dir, shape)
