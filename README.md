@@ -20,7 +20,7 @@ Follow these steps to set up the project on your local machine.
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/2manas8/Curvetopia.git
+git clone https://github.com/GhaniketRajputp005/Adobe-Gensolve-Hackathon-2024.git
 cd Curvetopia
 ```
 
