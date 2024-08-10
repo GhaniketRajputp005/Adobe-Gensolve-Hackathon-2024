@@ -2,14 +2,12 @@
 
 ## Overview
 
-Curvetopia is the Adobe GenSolve project for our group, aimed at generating a model that can identify simple shape doodles. This project includes a well-structured setup process, ensuring ease of use and reproducibility. 
+Curvetopia is our Adobe GenSolve project, designed to develop a model for recognizing simple shape doodles. It features:
 
-Key features of Curvetopia include:
-
-- **Shape Identification:** Generate and train a model to identify and distinguish between simple shape doodles.
-- **Virtual Environment:** Isolate project dependencies using a virtual environment.
-- **Dependency Management:** Install necessary dependencies with a single command.
-- **Cloud Integration:** Store and retrieve machine learning models using cloud storage solutions.
+- **Shape Recognition:** A model trained to identify and differentiate between various simple shape doodles.
+- **Virtual Environment:** A setup to isolate project dependencies, ensuring a clean development environment.
+- **Dependency Management:** A streamlined process for installing all required dependencies with a single command.
+- **Cloud Integration:** Utilization of cloud storage solutions for storing and accessing machine learning models.
 
 ## Installation
 
@@ -20,7 +18,7 @@ Follow these steps to set up the project on your local machine.
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/2manas8/Curvetopia.git
+git clone https://github.com/GhaniketRajputp005/Adobe-Gensolve-Hackathon-2024.git
 cd Curvetopia
 ```
 
@@ -41,7 +39,7 @@ source venv/bin/activate
 ```
 
 
-```
+
 
 ### 4. Install Dependencies
 
